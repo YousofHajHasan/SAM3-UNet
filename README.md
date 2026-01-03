@@ -1,3 +1,7 @@
+### This forked version is used to adapt SAM3-UNet to multi-class semantic segmentation.
+
+
+
 
 ## [SAM3-UNet: Simplified Adaptation of Segment Anything Model 3](https://arxiv.org/)
 
